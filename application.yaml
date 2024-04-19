@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: ./
-    repoURL: https://github.com/jyotsanaholmes/ArgoNamespace/
+    repoURL: https://github.com/jyotsanaarora/ArgoNamespace/test
     targetRevision: HEAD
   syncPolicy:
     automated:

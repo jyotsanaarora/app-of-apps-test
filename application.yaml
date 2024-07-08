@@ -13,7 +13,7 @@ spec:
   source:
     path: test
     repoURL: https://github.com/jyotsanaarora/app-of-apps-test
-    targetRevision: HEAD
+    targetRevision: main
   syncPolicy:
     automated:
       prune: true
